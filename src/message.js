@@ -1,1 +1,3 @@
-module.export = 'Hello cjs';
+// module.export = 'Hello cjs';
+
+export default 'Hello cjs';
